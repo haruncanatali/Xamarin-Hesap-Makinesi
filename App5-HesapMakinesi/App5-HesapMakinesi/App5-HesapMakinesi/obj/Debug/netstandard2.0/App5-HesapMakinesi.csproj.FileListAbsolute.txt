@@ -1,0 +1,14 @@
+E:\derscalismalarim\xamarincalismalarim\App5-HesapMakinesi\App5-HesapMakinesi\App5-HesapMakinesi\bin\Debug\netstandard2.0\App5-HesapMakinesi.deps.json
+E:\derscalismalarim\xamarincalismalarim\App5-HesapMakinesi\App5-HesapMakinesi\App5-HesapMakinesi\bin\Debug\netstandard2.0\App5-HesapMakinesi.dll
+E:\derscalismalarim\xamarincalismalarim\App5-HesapMakinesi\App5-HesapMakinesi\App5-HesapMakinesi\bin\Debug\netstandard2.0\ref\App5-HesapMakinesi.dll
+E:\derscalismalarim\xamarincalismalarim\App5-HesapMakinesi\App5-HesapMakinesi\App5-HesapMakinesi\bin\Debug\netstandard2.0\App5-HesapMakinesi.pdb
+E:\derscalismalarim\xamarincalismalarim\App5-HesapMakinesi\App5-HesapMakinesi\App5-HesapMakinesi\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\derscalismalarim\xamarincalismalarim\App5-HesapMakinesi\App5-HesapMakinesi\App5-HesapMakinesi\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\derscalismalarim\xamarincalismalarim\App5-HesapMakinesi\App5-HesapMakinesi\App5-HesapMakinesi\obj\Debug\netstandard2.0\App5-HesapMakinesi.AssemblyInfoInputs.cache
+E:\derscalismalarim\xamarincalismalarim\App5-HesapMakinesi\App5-HesapMakinesi\App5-HesapMakinesi\obj\Debug\netstandard2.0\App5-HesapMakinesi.AssemblyInfo.cs
+E:\derscalismalarim\xamarincalismalarim\App5-HesapMakinesi\App5-HesapMakinesi\App5-HesapMakinesi\obj\Debug\netstandard2.0\App5-HesapMakinesi.csproj.CoreCompileInputs.cache
+E:\derscalismalarim\xamarincalismalarim\App5-HesapMakinesi\App5-HesapMakinesi\App5-HesapMakinesi\obj\Debug\netstandard2.0\XamlC.stamp
+E:\derscalismalarim\xamarincalismalarim\App5-HesapMakinesi\App5-HesapMakinesi\App5-HesapMakinesi\obj\Debug\netstandard2.0\App5-HesapMakinesi.dll
+E:\derscalismalarim\xamarincalismalarim\App5-HesapMakinesi\App5-HesapMakinesi\App5-HesapMakinesi\obj\Debug\netstandard2.0\ref\App5-HesapMakinesi.dll
+E:\derscalismalarim\xamarincalismalarim\App5-HesapMakinesi\App5-HesapMakinesi\App5-HesapMakinesi\obj\Debug\netstandard2.0\App5-HesapMakinesi.pdb
+E:\derscalismalarim\xamarincalismalarim\App5-HesapMakinesi\App5-HesapMakinesi\App5-HesapMakinesi\obj\Debug\netstandard2.0\App5-HesapMakinesi.csprojAssemblyReference.cache

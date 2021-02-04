@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "MhDTu1Atwz0DgdyYuoZ8WjjOk0pFaxN0O72N3troE/b6HfSmjBebDdWqEchF7iqO9OQJ/60ApyHUCqgV9aa5ig==",
+  "success": true,
+  "projectFilePath": "E:\\derscalismalarim\\xamarincalismalarim\\App5-HesapMakinesi\\App5-HesapMakinesi\\App5-HesapMakinesi\\App5-HesapMakinesi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

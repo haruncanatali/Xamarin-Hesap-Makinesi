@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App5_HesapMakinesi.MainPage">
+
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="150"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+
+        <StackLayout Grid.Row="0" Grid.ColumnSpan="4" BackgroundColor="Black"
+            Orientation="Vertical"
+        >
+
+            <Label x:Name="sonucLBL" Margin="0,30,0,0" BackgroundColor="Black" TextColor="White" Text="0" FontSize="30" HorizontalTextAlignment="End"></Label>
+            <Label x:Name="islemLbl" BackgroundColor="Black" TextColor="White" Text="0" FontSize="20" HorizontalTextAlignment="End"></Label>
+
+        </StackLayout>
+
+        <Button Clicked="Btn_Click" BackgroundColor="#ecf0f1"  FontAttributes="Bold" FontSize="25" HorizontalOptions="Center" Padding="20" Grid.Row="1" Grid.ColumnSpan="3" Text="AC" WidthRequest="280"></Button>
+        <Button Clicked="Btn_Click" BackgroundColor="#e67e22" FontAttributes="Bold" FontSize="25" HorizontalOptions="Center" Grid.Row="1" Grid.Column="3" Text="/"></Button>
+
+        <Button Clicked="Btn_Click" FontAttributes="Bold" FontSize="25" HorizontalOptions="Center"  Grid.Row="2" Grid.Column="0" Text="7"></Button>
+        <Button Clicked="Btn_Click" FontAttributes="Bold" FontSize="25" HorizontalOptions="Center"  Grid.Row="2" Grid.Column="1" Text="8"></Button>
+        <Button Clicked="Btn_Click" FontAttributes="Bold" FontSize="25" HorizontalOptions="Center"  Grid.Row="2" Grid.Column="2" Text="9"></Button>
+        <Button Clicked="Btn_Click" FontAttributes="Bold" FontSize="25" HorizontalOptions="Center"  Grid.Row="2" Grid.Column="3" Text="X" BackgroundColor="#e67e22"></Button>
+
+        <Button Clicked="Btn_Click" FontAttributes="Bold" FontSize="25" HorizontalOptions="Center"  Grid.Row="3" Grid.Column="0" Text="4"></Button>
+        <Button Clicked="Btn_Click" FontAttributes="Bold" FontSize="25" HorizontalOptions="Center" Grid.Row="3" Grid.Column="1" Text="5"></Button>
+        <Button Clicked="Btn_Click" FontAttributes="Bold" FontSize="25" HorizontalOptions="Center"  Grid.Row="3" Grid.Column="2" Text="6"></Button>
+        <Button Clicked="Btn_Click" FontAttributes="Bold" FontSize="25" HorizontalOptions="Center"  Grid.Row="3" Grid.Column="3" Text="-" BackgroundColor="#e67e22"></Button>
+
+        <Button Clicked="Btn_Click" FontAttributes="Bold" FontSize="25" HorizontalOptions="Center"  Grid.Row="4" Grid.Column="0" Text="1"></Button>
+        <Button Clicked="Btn_Click" FontAttributes="Bold" FontSize="25" HorizontalOptions="Center" Grid.Row="4" Grid.Column="1" Text="2"></Button>
+        <Button Clicked="Btn_Click" FontAttributes="Bold" FontSize="25" HorizontalOptions="Center"  Grid.Row="4" Grid.Column="2" Text="3"></Button>
+        <Button Clicked="Btn_Click" FontAttributes="Bold" FontSize="25" HorizontalOptions="Center" Grid.Row="4" Grid.Column="3" Text="+" BackgroundColor="#e67e22"></Button>
+
+
+        <Button Clicked="Btn_Click" WidthRequest="280" FontAttributes="Bold" FontSize="25" HorizontalOptions="Center"  Grid.Row="5" Grid.ColumnSpan="3" Text="0"></Button>
+
+       
+        <Button Clicked="Btn_Click_Sonuc" FontAttributes="Bold" FontSize="25" HorizontalOptions="Center"  Grid.Row="5" Grid.Column="3" Text="=" BackgroundColor="#e67e22"></Button>
+
+    </Grid>
+    
+
+</ContentPage>
